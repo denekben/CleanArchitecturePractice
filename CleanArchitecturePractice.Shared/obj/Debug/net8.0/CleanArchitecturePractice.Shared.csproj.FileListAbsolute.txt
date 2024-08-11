@@ -1,0 +1,15 @@
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared\bin\Debug\net8.0\CleanArchitecturePractice.Shared.deps.json
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared\bin\Debug\net8.0\CleanArchitecturePractice.Shared.dll
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared\bin\Debug\net8.0\CleanArchitecturePractice.Shared.pdb
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared\bin\Debug\net8.0\CleanArchitecturePractice.Shared.Abstractions.dll
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared\bin\Debug\net8.0\CleanArchitecturePractice.Shared.Abstractions.pdb
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared\obj\Debug\net8.0\CleanArchitecturePractice.Shared.csproj.AssemblyReference.cache
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared\obj\Debug\net8.0\CleanArchitecturePractice.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared\obj\Debug\net8.0\CleanArchitecturePractice.Shared.AssemblyInfoInputs.cache
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared\obj\Debug\net8.0\CleanArchitecturePractice.Shared.AssemblyInfo.cs
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared\obj\Debug\net8.0\CleanArchitecturePractice.Shared.csproj.CoreCompileInputs.cache
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared\obj\Debug\net8.0\CleanArc.8DABBF8A.Up2Date
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared\obj\Debug\net8.0\CleanArchitecturePractice.Shared.dll
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared\obj\Debug\net8.0\refint\CleanArchitecturePractice.Shared.dll
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared\obj\Debug\net8.0\CleanArchitecturePractice.Shared.pdb
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared\obj\Debug\net8.0\ref\CleanArchitecturePractice.Shared.dll

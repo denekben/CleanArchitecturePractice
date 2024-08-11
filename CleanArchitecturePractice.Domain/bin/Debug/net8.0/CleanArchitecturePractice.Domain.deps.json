@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CleanArchitecturePractice.Domain/1.0.0": {
+        "dependencies": {
+          "CleanArchitecturePractice.Shared.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "CleanArchitecturePractice.Domain.dll": {}
+        }
+      },
+      "CleanArchitecturePractice.Shared.Abstractions/1.0.0": {
+        "runtime": {
+          "CleanArchitecturePractice.Shared.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanArchitecturePractice.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArchitecturePractice.Shared.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

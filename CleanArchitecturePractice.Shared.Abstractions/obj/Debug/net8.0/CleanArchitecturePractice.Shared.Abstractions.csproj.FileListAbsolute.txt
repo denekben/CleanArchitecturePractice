@@ -1,0 +1,11 @@
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared.Abstractions\bin\Debug\net8.0\CleanArchitecturePractice.Shared.Abstractions.deps.json
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared.Abstractions\bin\Debug\net8.0\CleanArchitecturePractice.Shared.Abstractions.dll
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared.Abstractions\bin\Debug\net8.0\CleanArchitecturePractice.Shared.Abstractions.pdb
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared.Abstractions\obj\Debug\net8.0\CleanArchitecturePractice.Shared.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared.Abstractions\obj\Debug\net8.0\CleanArchitecturePractice.Shared.Abstractions.AssemblyInfoInputs.cache
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared.Abstractions\obj\Debug\net8.0\CleanArchitecturePractice.Shared.Abstractions.AssemblyInfo.cs
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared.Abstractions\obj\Debug\net8.0\CleanArchitecturePractice.Shared.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared.Abstractions\obj\Debug\net8.0\CleanArchitecturePractice.Shared.Abstractions.dll
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared.Abstractions\obj\Debug\net8.0\refint\CleanArchitecturePractice.Shared.Abstractions.dll
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared.Abstractions\obj\Debug\net8.0\CleanArchitecturePractice.Shared.Abstractions.pdb
+C:\Users\DenEK\source\repos\CleanArchitecturePractice\CleanArchitecturePractice.Shared.Abstractions\obj\Debug\net8.0\ref\CleanArchitecturePractice.Shared.Abstractions.dll

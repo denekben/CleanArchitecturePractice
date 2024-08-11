@@ -1,0 +1,1801 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4AEEA1-5DC9-4E22-9015-BC2094B0D717}|CleanArchitecturePractice.UnitTests\\CleanArchitecturePractice.UnitTests.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.unittests\\application\\createpackinglistwithitemshandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4AEEA1-5DC9-4E22-9015-BC2094B0D717}|CleanArchitecturePractice.UnitTests\\CleanArchitecturePractice.UnitTests.csproj|solutionrelative:cleanarchitecturepractice.unittests\\application\\createpackinglistwithitemshandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4AEEA1-5DC9-4E22-9015-BC2094B0D717}|CleanArchitecturePractice.UnitTests\\CleanArchitecturePractice.UnitTests.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.unittests\\domain\\packinglisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4AEEA1-5DC9-4E22-9015-BC2094B0D717}|CleanArchitecturePractice.UnitTests\\CleanArchitecturePractice.UnitTests.csproj|solutionrelative:cleanarchitecturepractice.unittests\\domain\\packinglisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\commands\\handlers\\createpackinglistwithitemshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\commands\\handlers\\createpackinglistwithitemshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\commands\\createpackinglistwithitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\commands\\createpackinglistwithitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\entities\\packinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\entities\\packinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\events\\packingitemadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\events\\packingitemadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4AEEA1-5DC9-4E22-9015-BC2094B0D717}|CleanArchitecturePractice.UnitTests\\CleanArchitecturePractice.UnitTests.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.unittests\\cleanarchitecturepractice.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B4AEEA1-5DC9-4E22-9015-BC2094B0D717}|CleanArchitecturePractice.UnitTests\\CleanArchitecturePractice.UnitTests.csproj|solutionrelative:cleanarchitecturepractice.unittests\\cleanarchitecturepractice.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.infrastructure\\cleanarchitecturepractice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|solutionrelative:cleanarchitecturepractice.infrastructure\\cleanarchitecturepractice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.infrastructure\\ef\\config\\readconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|solutionrelative:cleanarchitecturepractice.infrastructure\\ef\\config\\readconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.infrastructure\\ef\\config\\writeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|solutionrelative:cleanarchitecturepractice.infrastructure\\ef\\config\\writeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.infrastructure\\ef\\contexts\\writedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|solutionrelative:cleanarchitecturepractice.infrastructure\\ef\\contexts\\writedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\valueobjects\\packinglistid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\valueobjects\\packinglistid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\valueobjects\\packingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\valueobjects\\packingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\commands\\handlers\\packitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\commands\\handlers\\packitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\commands\\handlers\\removepackingitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\commands\\handlers\\removepackingitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.infrastructure\\ef\\contexts\\readdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|solutionrelative:cleanarchitecturepractice.infrastructure\\ef\\contexts\\readdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D295BF24-BF4A-4B37-8BB2-7007F41756CB}|CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.shared\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D295BF24-BF4A-4B37-8BB2-7007F41756CB}|CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj|solutionrelative:cleanarchitecturepractice.shared\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8521D52B-1D6B-460A-BB43-3717928C4D77}|CleanArchitecturePractice.WebAPI\\CleanArchitecturePractice.WebAPI.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.webapi\\controllers\\packinglistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8521D52B-1D6B-460A-BB43-3717928C4D77}|CleanArchitecturePractice.WebAPI\\CleanArchitecturePractice.WebAPI.csproj|solutionrelative:cleanarchitecturepractice.webapi\\controllers\\packinglistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D295BF24-BF4A-4B37-8BB2-7007F41756CB}|CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.shared\\commands\\inmemorycommanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D295BF24-BF4A-4B37-8BB2-7007F41756CB}|CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj|solutionrelative:cleanarchitecturepractice.shared\\commands\\inmemorycommanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.infrastructure\\logging\\loggingcommandhandlerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|solutionrelative:cleanarchitecturepractice.infrastructure\\logging\\loggingcommandhandlerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.infrastructure\\ef\\repositories\\postgrespackinglistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|solutionrelative:cleanarchitecturepractice.infrastructure\\ef\\repositories\\postgrespackinglistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\factories\\packinglistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\factories\\packinglistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\factories\\ipackinglistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\factories\\ipackinglistfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.infrastructure\\ef\\services\\postgrespackinglistreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|solutionrelative:cleanarchitecturepractice.infrastructure\\ef\\services\\postgrespackinglistreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.infrastructure\\ef\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|solutionrelative:cleanarchitecturepractice.infrastructure\\ef\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CBFD10-9CE4-4CD5-9157-FA21946E8C60}|CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.shared.abstractions\\commands\\icommanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CBFD10-9CE4-4CD5-9157-FA21946E8C60}|CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj|solutionrelative:cleanarchitecturepractice.shared.abstractions\\commands\\icommanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.infrastructure\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|solutionrelative:cleanarchitecturepractice.infrastructure\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8521D52B-1D6B-460A-BB43-3717928C4D77}|CleanArchitecturePractice.WebAPI\\CleanArchitecturePractice.WebAPI.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.webapi\\cleanarchitecturepractice.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8521D52B-1D6B-460A-BB43-3717928C4D77}|CleanArchitecturePractice.WebAPI\\CleanArchitecturePractice.WebAPI.csproj|solutionrelative:cleanarchitecturepractice.webapi\\cleanarchitecturepractice.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\cleanarchitecturepractice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\cleanarchitecturepractice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\cleanarchitecturepractice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\cleanarchitecturepractice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8521D52B-1D6B-460A-BB43-3717928C4D77}|CleanArchitecturePractice.WebAPI\\CleanArchitecturePractice.WebAPI.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8521D52B-1D6B-460A-BB43-3717928C4D77}|CleanArchitecturePractice.WebAPI\\CleanArchitecturePractice.WebAPI.csproj|solutionrelative:cleanarchitecturepractice.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\commands\\addpackingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\commands\\addpackingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\commands\\handlers\\addpackingitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\commands\\handlers\\addpackingitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.infrastructure\\ef\\queries\\handlers\\getpackinglisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|solutionrelative:cleanarchitecturepractice.infrastructure\\ef\\queries\\handlers\\getpackinglisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\queries\\searchpackinglists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\queries\\searchpackinglists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\queries\\getpackinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\queries\\getpackinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\dto\\packinglistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\dto\\packinglistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\dto\\localizationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\dto\\localizationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D295BF24-BF4A-4B37-8BB2-7007F41756CB}|CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.shared\\options\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D295BF24-BF4A-4B37-8BB2-7007F41756CB}|CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj|solutionrelative:cleanarchitecturepractice.shared\\options\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8521D52B-1D6B-460A-BB43-3717928C4D77}|CleanArchitecturePractice.WebAPI\\CleanArchitecturePractice.WebAPI.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8521D52B-1D6B-460A-BB43-3717928C4D77}|CleanArchitecturePractice.WebAPI\\CleanArchitecturePractice.WebAPI.csproj|solutionrelative:cleanarchitecturepractice.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D295BF24-BF4A-4B37-8BB2-7007F41756CB}|CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.shared\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D295BF24-BF4A-4B37-8BB2-7007F41756CB}|CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj|solutionrelative:cleanarchitecturepractice.shared\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.infrastructure\\ef\\queries\\handlers\\searchpackinglistshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|solutionrelative:cleanarchitecturepractice.infrastructure\\ef\\queries\\handlers\\searchpackinglistshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8521D52B-1D6B-460A-BB43-3717928C4D77}|CleanArchitecturePractice.WebAPI\\CleanArchitecturePractice.WebAPI.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8521D52B-1D6B-460A-BB43-3717928C4D77}|CleanArchitecturePractice.WebAPI\\CleanArchitecturePractice.WebAPI.csproj|solutionrelative:cleanarchitecturepractice.webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D295BF24-BF4A-4B37-8BB2-7007F41756CB}|CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.shared\\cleanarchitecturepractice.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D295BF24-BF4A-4B37-8BB2-7007F41756CB}|CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj|solutionrelative:cleanarchitecturepractice.shared\\cleanarchitecturepractice.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D295BF24-BF4A-4B37-8BB2-7007F41756CB}|CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.shared\\services\\appinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D295BF24-BF4A-4B37-8BB2-7007F41756CB}|CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj|solutionrelative:cleanarchitecturepractice.shared\\services\\appinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.infrastructure\\ef\\migrations\\20240810144138_init_read.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|solutionrelative:cleanarchitecturepractice.infrastructure\\ef\\migrations\\20240810144138_init_read.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.infrastructure\\ef\\migrations\\readdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|solutionrelative:cleanarchitecturepractice.infrastructure\\ef\\migrations\\readdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\policies\\universal\\basicpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\policies\\universal\\basicpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CBFD10-9CE4-4CD5-9157-FA21946E8C60}|CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.shared.abstractions\\domain\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CBFD10-9CE4-4CD5-9157-FA21946E8C60}|CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj|solutionrelative:cleanarchitecturepractice.shared.abstractions\\domain\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\policies\\policydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\policies\\policydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.infrastructure\\ef\\services\\dumbweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|solutionrelative:cleanarchitecturepractice.infrastructure\\ef\\services\\dumbweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\dto\\external\\weatherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\dto\\external\\weatherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\valueobjects\\localization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\valueobjects\\localization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\exceptions\\packinglistalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\exceptions\\packinglistalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CBFD10-9CE4-4CD5-9157-FA21946E8C60}|CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.shared.abstractions\\exceptions\\packitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CBFD10-9CE4-4CD5-9157-FA21946E8C60}|CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj|solutionrelative:cleanarchitecturepractice.shared.abstractions\\exceptions\\packitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8521D52B-1D6B-460A-BB43-3717928C4D77}|CleanArchitecturePractice.WebAPI\\CleanArchitecturePractice.WebAPI.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8521D52B-1D6B-460A-BB43-3717928C4D77}|CleanArchitecturePractice.WebAPI\\CleanArchitecturePractice.WebAPI.csproj|solutionrelative:cleanarchitecturepractice.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\dto\\packingitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\dto\\packingitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.infrastructure\\ef\\queries\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|solutionrelative:cleanarchitecturepractice.infrastructure\\ef\\queries\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D295BF24-BF4A-4B37-8BB2-7007F41756CB}|CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.shared\\queries\\inmemoryquerydispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D295BF24-BF4A-4B37-8BB2-7007F41756CB}|CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj|solutionrelative:cleanarchitecturepractice.shared\\queries\\inmemoryquerydispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\valueobjects\\temperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\valueobjects\\temperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\exceptions\\invalidtemperatureexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\exceptions\\invalidtemperatureexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\exceptions\\invalidtraveldaysexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\exceptions\\invalidtraveldaysexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\commands\\removepackinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\commands\\removepackinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\commands\\removepackingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\commands\\removepackingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\commands\\handlers\\removepackinglisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\commands\\handlers\\removepackinglisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D295BF24-BF4A-4B37-8BB2-7007F41756CB}|CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.shared\\queries\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D295BF24-BF4A-4B37-8BB2-7007F41756CB}|CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj|solutionrelative:cleanarchitecturepractice.shared\\queries\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.infrastructure\\ef\\options\\postgresoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|solutionrelative:cleanarchitecturepractice.infrastructure\\ef\\options\\postgresoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.infrastructure\\ef\\migrations\\20240810144138_init_read.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|solutionrelative:cleanarchitecturepractice.infrastructure\\ef\\migrations\\20240810144138_init_read.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CBFD10-9CE4-4CD5-9157-FA21946E8C60}|CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.shared.abstractions\\commands\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CBFD10-9CE4-4CD5-9157-FA21946E8C60}|CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj|solutionrelative:cleanarchitecturepractice.shared.abstractions\\commands\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CBFD10-9CE4-4CD5-9157-FA21946E8C60}|CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.shared.abstractions\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CBFD10-9CE4-4CD5-9157-FA21946E8C60}|CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj|solutionrelative:cleanarchitecturepractice.shared.abstractions\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D295BF24-BF4A-4B37-8BB2-7007F41756CB}|CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.shared\\commands\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D295BF24-BF4A-4B37-8BB2-7007F41756CB}|CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj|solutionrelative:cleanarchitecturepractice.shared\\commands\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\commands\\packitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\commands\\packitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice\\CleanArchitecturePractice.WebAPI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecturePractice\\CleanArchitecturePractice.WebAPI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\exceptions\\missinglocalizationweatherexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\exceptions\\missinglocalizationweatherexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\policies\\gender\\malegenderpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\policies\\gender\\malegenderpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\valueobjects\\packinglistname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\valueobjects\\packinglistname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\repositories\\ipackinglistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\repositories\\ipackinglistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.infrastructure\\ef\\models\\packinglistreadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|solutionrelative:cleanarchitecturepractice.infrastructure\\ef\\models\\packinglistreadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\consts\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\consts\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CBFD10-9CE4-4CD5-9157-FA21946E8C60}|CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.shared.abstractions\\cleanarchitecturepractice.shared.abstractions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1CBFD10-9CE4-4CD5-9157-FA21946E8C60}|CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj|solutionrelative:cleanarchitecturepractice.shared.abstractions\\cleanarchitecturepractice.shared.abstractions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.infrastructure\\ef\\models\\packingitemreadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|solutionrelative:cleanarchitecturepractice.infrastructure\\ef\\models\\packingitemreadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.infrastructure\\ef\\models\\localizationreadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE7DC50-CDF5-4C70-A254-73846F602600}|CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj|solutionrelative:cleanarchitecturepractice.infrastructure\\ef\\models\\localizationreadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\services\\ipackinglistreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\services\\ipackinglistreadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\valueobjects\\traveldays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\valueobjects\\traveldays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CBFD10-9CE4-4CD5-9157-FA21946E8C60}|CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.shared.abstractions\\queries\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CBFD10-9CE4-4CD5-9157-FA21946E8C60}|CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj|solutionrelative:cleanarchitecturepractice.shared.abstractions\\queries\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CBFD10-9CE4-4CD5-9157-FA21946E8C60}|CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.shared.abstractions\\queries\\iquerydispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CBFD10-9CE4-4CD5-9157-FA21946E8C60}|CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj|solutionrelative:cleanarchitecturepractice.shared.abstractions\\queries\\iquerydispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CBFD10-9CE4-4CD5-9157-FA21946E8C60}|CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.shared.abstractions\\domain\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CBFD10-9CE4-4CD5-9157-FA21946E8C60}|CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj|solutionrelative:cleanarchitecturepractice.shared.abstractions\\domain\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CBFD10-9CE4-4CD5-9157-FA21946E8C60}|CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.shared.abstractions\\queries\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CBFD10-9CE4-4CD5-9157-FA21946E8C60}|CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj|solutionrelative:cleanarchitecturepractice.shared.abstractions\\queries\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\exceptions\\packinglistnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\exceptions\\packinglistnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\events\\packingitemremoved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\events\\packingitemremoved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.application\\services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16807ABF-FF9B-4ADB-9BE2-5916FD3E7118}|CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj|solutionrelative:cleanarchitecturepractice.application\\services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\exceptions\\packingitemalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\exceptions\\packingitemalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\policies\\gender\\femalegenderpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\policies\\gender\\femalegenderpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\policies\\ipackingitemspolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\policies\\ipackingitemspolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\policies\\temperature\\lowtemperaturepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\policies\\temperature\\lowtemperaturepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\policies\\temperature\\hightemperaturepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\policies\\temperature\\hightemperaturepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\exceptions\\packingitemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\exceptions\\packingitemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\exceptions\\emptypackinglistnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\exceptions\\emptypackinglistnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\exceptions\\emptypackinglistitemexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\exceptions\\emptypackinglistitemexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\exceptions\\emptypackinglistidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\exceptions\\emptypackinglistidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|c:\\users\\denek\\source\\repos\\cleanarchitecturepractice\\cleanarchitecturepractice.domain\\events\\packingitempacked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2460B0D1-09B2-4044-AAA9-EFE6D5A229E2}|CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj|solutionrelative:cleanarchitecturepractice.domain\\events\\packingitempacked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecturePractice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecturePractice\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanArchitecturePractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PackingListTests.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.UnitTests\\Domain\\PackingListTests.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.UnitTests\\Domain\\PackingListTests.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.UnitTests\\Domain\\PackingListTests.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.UnitTests\\Domain\\PackingListTests.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T09:28:33.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreatePackingListWithItemsHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.UnitTests\\Application\\CreatePackingListWithItemsHandlerTests.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.UnitTests\\Application\\CreatePackingListWithItemsHandlerTests.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.UnitTests\\Application\\CreatePackingListWithItemsHandlerTests.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.UnitTests\\Application\\CreatePackingListWithItemsHandlerTests.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T10:06:18.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreatePackingListWithItemsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Commands\\Handlers\\CreatePackingListWithItemsHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\Commands\\Handlers\\CreatePackingListWithItemsHandler.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Commands\\Handlers\\CreatePackingListWithItemsHandler.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\Commands\\Handlers\\CreatePackingListWithItemsHandler.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:59:15.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreatePackingListWithItems.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Commands\\CreatePackingListWithItems.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\Commands\\CreatePackingListWithItems.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Commands\\CreatePackingListWithItems.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\Commands\\CreatePackingListWithItems.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:50:56.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PackingItemAdded.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Events\\PackingItemAdded.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Events\\PackingItemAdded.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Events\\PackingItemAdded.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Events\\PackingItemAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T22:07:45.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CleanArchitecturePractice.UnitTests",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.UnitTests\\CleanArchitecturePractice.UnitTests.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.UnitTests\\CleanArchitecturePractice.UnitTests.csproj",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.UnitTests\\CleanArchitecturePractice.UnitTests.csproj",
+              "RelativeToolTip": "CleanArchitecturePractice.UnitTests\\CleanArchitecturePractice.UnitTests.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-11T09:28:08.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CleanArchitecturePractice.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj",
+              "RelativeToolTip": "CleanArchitecturePractice.Infrastructure\\CleanArchitecturePractice.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-04T18:59:28.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReadConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Config\\ReadConfiguration.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Infrastructure\\EF\\Config\\ReadConfiguration.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Config\\ReadConfiguration.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Infrastructure\\EF\\Config\\ReadConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T00:29:30.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PackingList.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Entities\\PackingList.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Entities\\PackingList.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Entities\\PackingList.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Entities\\PackingList.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAWwCYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:45:17.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WriteConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Config\\WriteConfiguration.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Infrastructure\\EF\\Config\\WriteConfiguration.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Config\\WriteConfiguration.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Infrastructure\\EF\\Config\\WriteConfiguration.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T00:52:59.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PackingListId.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\ValueObjects\\PackingListId.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\ValueObjects\\PackingListId.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\ValueObjects\\PackingListId.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\ValueObjects\\PackingListId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T21:41:40.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PackingItem.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\ValueObjects\\PackingItem.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\ValueObjects\\PackingItem.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\ValueObjects\\PackingItem.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\ValueObjects\\PackingItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:18:01.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WriteDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Contexts\\WriteDbContext.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Infrastructure\\EF\\Contexts\\WriteDbContext.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Contexts\\WriteDbContext.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Infrastructure\\EF\\Contexts\\WriteDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T00:23:18.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReadDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Contexts\\ReadDbContext.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Infrastructure\\EF\\Contexts\\ReadDbContext.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Contexts\\ReadDbContext.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Infrastructure\\EF\\Contexts\\ReadDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T00:18:31.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RemovePackingItemHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Commands\\Handlers\\RemovePackingItemHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\Commands\\Handlers\\RemovePackingItemHandler.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Commands\\Handlers\\RemovePackingItemHandler.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\Commands\\Handlers\\RemovePackingItemHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:33:57.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PackItemHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Commands\\Handlers\\PackItemHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\Commands\\Handlers\\PackItemHandler.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Commands\\Handlers\\PackItemHandler.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\Commands\\Handlers\\PackItemHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:33:38.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Shared\\Exceptions\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Shared\\Exceptions\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:33:54.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoggingCommandHandlerDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\Logging\\LoggingCommandHandlerDecorator.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Infrastructure\\Logging\\LoggingCommandHandlerDecorator.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\Logging\\LoggingCommandHandlerDecorator.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Infrastructure\\Logging\\LoggingCommandHandlerDecorator.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIAywCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T07:39:51.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PostgresPackingListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Repositories\\PostgresPackingListRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Infrastructure\\EF\\Repositories\\PostgresPackingListRepository.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Repositories\\PostgresPackingListRepository.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Infrastructure\\EF\\Repositories\\PostgresPackingListRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:39:40.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PackingListsController.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.WebAPI\\Controllers\\PackingListsController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.WebAPI\\Controllers\\PackingListsController.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.WebAPI\\Controllers\\PackingListsController.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.WebAPI\\Controllers\\PackingListsController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAxwCgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:47:19.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PackingListFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Factories\\PackingListFactory.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Factories\\PackingListFactory.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Factories\\PackingListFactory.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Factories\\PackingListFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T23:06:03.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InMemoryCommandDispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared\\Commands\\InMemoryCommandDispatcher.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Shared\\Commands\\InMemoryCommandDispatcher.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared\\Commands\\InMemoryCommandDispatcher.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Shared\\Commands\\InMemoryCommandDispatcher.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T01:34:14.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPackingListFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Factories\\IPackingListFactory.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Factories\\IPackingListFactory.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Factories\\IPackingListFactory.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Factories\\IPackingListFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T23:05:16.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PostgresPackingListReadService.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Services\\PostgresPackingListReadService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Infrastructure\\EF\\Services\\PostgresPackingListReadService.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Services\\PostgresPackingListReadService.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Infrastructure\\EF\\Services\\PostgresPackingListReadService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:55:30.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Extensions.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Infrastructure\\EF\\Extensions.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Extensions.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Infrastructure\\EF\\Extensions.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAWwBYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:50:11.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CleanArchitecturePractice.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\CleanArchitecturePractice.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-04T19:04:06.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CleanArchitecturePractice.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\CleanArchitecturePractice.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T17:44:43.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICommandDispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared.Abstractions\\Commands\\ICommandDispatcher.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Shared.Abstractions\\Commands\\ICommandDispatcher.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared.Abstractions\\Commands\\ICommandDispatcher.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Shared.Abstractions\\Commands\\ICommandDispatcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T01:29:51.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CleanArchitecturePractice.WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.WebAPI\\CleanArchitecturePractice.WebAPI.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.WebAPI\\CleanArchitecturePractice.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.WebAPI\\CleanArchitecturePractice.WebAPI.csproj",
+              "RelativeToolTip": "CleanArchitecturePractice.WebAPI\\CleanArchitecturePractice.WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-10T14:17:20.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\Extensions.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Infrastructure\\Extensions.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\Extensions.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Infrastructure\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:32:56.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CleanArchitecturePractice.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T14:55:20.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddPackingItem.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Commands\\AddPackingItem.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\Commands\\AddPackingItem.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Commands\\AddPackingItem.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\Commands\\AddPackingItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:24:26.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddPackingItemHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Commands\\Handlers\\AddPackingItemHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\Commands\\Handlers\\AddPackingItemHandler.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Commands\\Handlers\\AddPackingItemHandler.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\Commands\\Handlers\\AddPackingItemHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:33:04.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetPackingListHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Queries\\Handlers\\GetPackingListHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Infrastructure\\EF\\Queries\\Handlers\\GetPackingListHandler.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Queries\\Handlers\\GetPackingListHandler.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Infrastructure\\EF\\Queries\\Handlers\\GetPackingListHandler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvyAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:31:18.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SearchPackingLists.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Queries\\SearchPackingLists.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\Queries\\SearchPackingLists.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Queries\\SearchPackingLists.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\Queries\\SearchPackingLists.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:01:40.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetPackingList.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Queries\\GetPackingList.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\Queries\\GetPackingList.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Queries\\GetPackingList.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\Queries\\GetPackingList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:43:52.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PackingListDto.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\DTO\\PackingListDto.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\DTO\\PackingListDto.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\DTO\\PackingListDto.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\DTO\\PackingListDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:50:14.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LocalizationDto.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\DTO\\LocalizationDto.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\DTO\\LocalizationDto.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\DTO\\LocalizationDto.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\DTO\\LocalizationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:45:29.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared\\Options\\Extensions.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Shared\\Options\\Extensions.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared\\Options\\Extensions.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Shared\\Options\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:30:34.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.WebAPI\\Program.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:35:56.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared\\Extensions.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Shared\\Extensions.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared\\Extensions.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Shared\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:20:22.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SearchPackingListsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Queries\\Handlers\\SearchPackingListsHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Infrastructure\\EF\\Queries\\Handlers\\SearchPackingListsHandler.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Queries\\Handlers\\SearchPackingListsHandler.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Infrastructure\\EF\\Queries\\Handlers\\SearchPackingListsHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwBMAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:31:21.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.WebAPI\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.WebAPI\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.WebAPI\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.WebAPI\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:54:57.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CleanArchitecturePractice.Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj",
+              "RelativeToolTip": "CleanArchitecturePractice.Shared\\CleanArchitecturePractice.Shared.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-04T01:39:27.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Localization.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\ValueObjects\\Localization.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\ValueObjects\\Localization.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\ValueObjects\\Localization.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\ValueObjects\\Localization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:11:51.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DumbWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Services\\DumbWeatherService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Infrastructure\\EF\\Services\\DumbWeatherService.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Services\\DumbWeatherService.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Infrastructure\\EF\\Services\\DumbWeatherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:01:00.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "WeatherDto.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\DTO\\External\\WeatherDto.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\DTO\\External\\WeatherDto.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\DTO\\External\\WeatherDto.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\DTO\\External\\WeatherDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:52:22.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AppInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared\\Services\\AppInitializer.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Shared\\Services\\AppInitializer.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared\\Services\\AppInitializer.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Shared\\Services\\AppInitializer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:08:10.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20240810144138_init_read.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Migrations\\20240810144138_init_read.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Infrastructure\\EF\\Migrations\\20240810144138_init_read.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Migrations\\20240810144138_init_read.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Infrastructure\\EF\\Migrations\\20240810144138_init_read.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:33:09.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ReadDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Migrations\\ReadDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Infrastructure\\EF\\Migrations\\ReadDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Migrations\\ReadDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Infrastructure\\EF\\Migrations\\ReadDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:56:42.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PolicyData.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Policies\\PolicyData.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Policies\\PolicyData.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Policies\\PolicyData.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Policies\\PolicyData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T23:37:38.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared.Abstractions\\Domain\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Shared.Abstractions\\Domain\\AggregateRoot.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared.Abstractions\\Domain\\AggregateRoot.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Shared.Abstractions\\Domain\\AggregateRoot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T21:35:14.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BasicPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Policies\\Universal\\BasicPolicy.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Policies\\Universal\\BasicPolicy.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Policies\\Universal\\BasicPolicy.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Policies\\Universal\\BasicPolicy.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T00:05:07.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PackingListAlreadyExistsException.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Exceptions\\PackingListAlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\Exceptions\\PackingListAlreadyExistsException.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Exceptions\\PackingListAlreadyExistsException.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\Exceptions\\PackingListAlreadyExistsException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:41:05.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "PackItException.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared.Abstractions\\Exceptions\\PackItException.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Shared.Abstractions\\Exceptions\\PackItException.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared.Abstractions\\Exceptions\\PackItException.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Shared.Abstractions\\Exceptions\\PackItException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:52:43.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "InMemoryQueryDispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared\\Queries\\InMemoryQueryDispatcher.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Shared\\Queries\\InMemoryQueryDispatcher.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared\\Queries\\InMemoryQueryDispatcher.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Shared\\Queries\\InMemoryQueryDispatcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:23:51.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PackingItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\DTO\\PackingItemDto.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\DTO\\PackingItemDto.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\DTO\\PackingItemDto.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\DTO\\PackingItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:47:21.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.WebAPI\\appsettings.json",
+              "RelativeToolTip": "CleanArchitecturePractice.WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T14:55:11.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Queries\\Extensions.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Infrastructure\\EF\\Queries\\Extensions.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Queries\\Extensions.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Infrastructure\\EF\\Queries\\Extensions.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:06:56.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "InvalidTemperatureException.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Exceptions\\InvalidTemperatureException.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Exceptions\\InvalidTemperatureException.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Exceptions\\InvalidTemperatureException.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Exceptions\\InvalidTemperatureException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T23:27:36.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "InvalidTravelDaysException.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Exceptions\\InvalidTravelDaysException.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Exceptions\\InvalidTravelDaysException.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Exceptions\\InvalidTravelDaysException.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Exceptions\\InvalidTravelDaysException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T23:16:30.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Temperature.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\ValueObjects\\Temperature.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\ValueObjects\\Temperature.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\ValueObjects\\Temperature.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\ValueObjects\\Temperature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T23:25:17.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "RemovePackingListHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Commands\\Handlers\\RemovePackingListHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\Commands\\Handlers\\RemovePackingListHandler.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Commands\\Handlers\\RemovePackingListHandler.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\Commands\\Handlers\\RemovePackingListHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:33:24.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "RemovePackingItem.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Commands\\RemovePackingItem.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\Commands\\RemovePackingItem.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Commands\\RemovePackingItem.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\Commands\\RemovePackingItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:25:42.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "RemovePackingList.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Commands\\RemovePackingList.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\Commands\\RemovePackingList.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Commands\\RemovePackingList.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\Commands\\RemovePackingList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:25:07.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "PostgresOptions.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Options\\PostgresOptions.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Infrastructure\\EF\\Options\\PostgresOptions.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Options\\PostgresOptions.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Infrastructure\\EF\\Options\\PostgresOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:29:15.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared\\Queries\\Extensions.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Shared\\Queries\\Extensions.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared\\Queries\\Extensions.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Shared\\Queries\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:36:36.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Extensions.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\Extensions.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Extensions.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\Extensions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:05:51.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20240810144138_init_read.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Migrations\\20240810144138_init_read.Designer.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Infrastructure\\EF\\Migrations\\20240810144138_init_read.Designer.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Migrations\\20240810144138_init_read.Designer.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Infrastructure\\EF\\Migrations\\20240810144138_init_read.Designer.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIBJwAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:56:40.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared.Abstractions\\Commands\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Shared.Abstractions\\Commands\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared.Abstractions\\Commands\\ICommandHandler.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Shared.Abstractions\\Commands\\ICommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T01:25:13.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared.Abstractions\\Commands\\ICommand.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Shared.Abstractions\\Commands\\ICommand.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared.Abstractions\\Commands\\ICommand.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Shared.Abstractions\\Commands\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T01:24:45.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared\\Commands\\Extensions.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Shared\\Commands\\Extensions.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared\\Commands\\Extensions.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Shared\\Commands\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T01:43:08.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "PackItem.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Commands\\PackItem.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\Commands\\PackItem.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Commands\\PackItem.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\Commands\\PackItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:25:22.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "CleanArchitecturePractice.WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice\\CleanArchitecturePractice.WebAPI.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice\\CleanArchitecturePractice.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice\\CleanArchitecturePractice.WebAPI.csproj",
+              "RelativeToolTip": "CleanArchitecturePractice\\CleanArchitecturePractice.WebAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-04T19:38:30.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice\\Program.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice\\Program.cs",
+              "RelativeToolTip": "CleanArchitecturePractice\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:37:19.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "PackingListName.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\ValueObjects\\PackingListName.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\ValueObjects\\PackingListName.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\ValueObjects\\PackingListName.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\ValueObjects\\PackingListName.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:47:39.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CleanArchitecturePractice\\Controllers\\WeatherForecastController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T12:36:35.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "MaleGenderPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Policies\\Gender\\MaleGenderPolicy.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Policies\\Gender\\MaleGenderPolicy.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Policies\\Gender\\MaleGenderPolicy.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Policies\\Gender\\MaleGenderPolicy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T23:52:07.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "MissingLocalizationWeatherException.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Exceptions\\MissingLocalizationWeatherException.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\Exceptions\\MissingLocalizationWeatherException.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Exceptions\\MissingLocalizationWeatherException.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\Exceptions\\MissingLocalizationWeatherException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:09:11.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "IPackingListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Repositories\\IPackingListRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Repositories\\IPackingListRepository.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Repositories\\IPackingListRepository.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Repositories\\IPackingListRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T00:20:31.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Consts\\Gender.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Consts\\Gender.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Consts\\Gender.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Consts\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T23:22:11.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "PackingListReadModel.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Models\\PackingListReadModel.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Infrastructure\\EF\\Models\\PackingListReadModel.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Models\\PackingListReadModel.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Infrastructure\\EF\\Models\\PackingListReadModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:47:01.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice\\appsettings.json",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice\\appsettings.json",
+              "RelativeToolTip": "CleanArchitecturePractice\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T01:25:15.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "CleanArchitecturePractice.Shared.Abstractions.csproj",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj",
+              "RelativeToolTip": "CleanArchitecturePractice.Shared.Abstractions\\CleanArchitecturePractice.Shared.Abstractions.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T17:52:20.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "PackingItemReadModel.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Models\\PackingItemReadModel.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Infrastructure\\EF\\Models\\PackingItemReadModel.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Models\\PackingItemReadModel.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Infrastructure\\EF\\Models\\PackingItemReadModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:46:49.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "LocalizationReadModel.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Models\\LocalizationReadModel.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Infrastructure\\EF\\Models\\LocalizationReadModel.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Infrastructure\\EF\\Models\\LocalizationReadModel.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Infrastructure\\EF\\Models\\LocalizationReadModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:46:56.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "IPackingListReadService.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Services\\IPackingListReadService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\Services\\IPackingListReadService.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Services\\IPackingListReadService.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\Services\\IPackingListReadService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:33:35.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "TravelDays.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\ValueObjects\\TravelDays.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\ValueObjects\\TravelDays.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\ValueObjects\\TravelDays.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\ValueObjects\\TravelDays.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T23:12:59.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared.Abstractions\\Queries\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Shared.Abstractions\\Queries\\IQueryHandler.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared.Abstractions\\Queries\\IQueryHandler.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Shared.Abstractions\\Queries\\IQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:19:04.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "IQueryDispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared.Abstractions\\Queries\\IQueryDispatcher.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Shared.Abstractions\\Queries\\IQueryDispatcher.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared.Abstractions\\Queries\\IQueryDispatcher.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Shared.Abstractions\\Queries\\IQueryDispatcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:21:53.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared.Abstractions\\Domain\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Shared.Abstractions\\Domain\\IDomainEvent.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared.Abstractions\\Domain\\IDomainEvent.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Shared.Abstractions\\Domain\\IDomainEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T21:58:48.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared.Abstractions\\Queries\\IQuery.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Shared.Abstractions\\Queries\\IQuery.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Shared.Abstractions\\Queries\\IQuery.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Shared.Abstractions\\Queries\\IQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:13:26.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "PackingListNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Exceptions\\PackingListNotFoundException.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\Exceptions\\PackingListNotFoundException.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Exceptions\\PackingListNotFoundException.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\Exceptions\\PackingListNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T21:40:29.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "PackingItemRemoved.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Events\\PackingItemRemoved.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Events\\PackingItemRemoved.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Events\\PackingItemRemoved.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Events\\PackingItemRemoved.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T22:28:36.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "IWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Services\\IWeatherService.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Application\\Services\\IWeatherService.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Application\\Services\\IWeatherService.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Application\\Services\\IWeatherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:49:26.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "PackingItemAlreadyExistsException.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Exceptions\\PackingItemAlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Exceptions\\PackingItemAlreadyExistsException.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Exceptions\\PackingItemAlreadyExistsException.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Exceptions\\PackingItemAlreadyExistsException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:37:38.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "FemaleGenderPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Policies\\Gender\\FemaleGenderPolicy.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Policies\\Gender\\FemaleGenderPolicy.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Policies\\Gender\\FemaleGenderPolicy.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Policies\\Gender\\FemaleGenderPolicy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T23:59:25.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "IPackingItemsPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Policies\\IPackingItemsPolicy.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Policies\\IPackingItemsPolicy.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Policies\\IPackingItemsPolicy.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Policies\\IPackingItemsPolicy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T23:35:10.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "LowTemperaturePolicy.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Policies\\Temperature\\LowTemperaturePolicy.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Policies\\Temperature\\LowTemperaturePolicy.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Policies\\Temperature\\LowTemperaturePolicy.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Policies\\Temperature\\LowTemperaturePolicy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T00:02:32.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "HighTemperaturePolicy.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Policies\\Temperature\\HighTemperaturePolicy.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Policies\\Temperature\\HighTemperaturePolicy.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Policies\\Temperature\\HighTemperaturePolicy.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Policies\\Temperature\\HighTemperaturePolicy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T00:01:28.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "PackingItemNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Exceptions\\PackingItemNotFoundException.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Exceptions\\PackingItemNotFoundException.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Exceptions\\PackingItemNotFoundException.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Exceptions\\PackingItemNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T22:16:18.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "EmptyPackingListNameException.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Exceptions\\EmptyPackingListNameException.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Exceptions\\EmptyPackingListNameException.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Exceptions\\EmptyPackingListNameException.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Exceptions\\EmptyPackingListNameException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:54:27.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "EmptyPackingListItemException.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Exceptions\\EmptyPackingListItemException.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Exceptions\\EmptyPackingListItemException.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Exceptions\\EmptyPackingListItemException.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Exceptions\\EmptyPackingListItemException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:22:07.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "EmptyPackingListIdException.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Exceptions\\EmptyPackingListIdException.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Exceptions\\EmptyPackingListIdException.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Exceptions\\EmptyPackingListIdException.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Exceptions\\EmptyPackingListIdException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T21:43:43.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "PackingItemPacked.cs",
+              "DocumentMoniker": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Events\\PackingItemPacked.cs",
+              "RelativeDocumentMoniker": "CleanArchitecturePractice.Domain\\Events\\PackingItemPacked.cs",
+              "ToolTip": "C:\\Users\\DenEK\\source\\repos\\CleanArchitecturePractice\\CleanArchitecturePractice.Domain\\Events\\PackingItemPacked.cs",
+              "RelativeToolTip": "CleanArchitecturePractice.Domain\\Events\\PackingItemPacked.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T22:24:41.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
